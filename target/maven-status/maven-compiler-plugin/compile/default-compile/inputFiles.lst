@@ -1,3 +1,5 @@
-C:\Users\junw\Documents\GitHub\test-MybatisFlex\src\main\java\wo1261931780\testMybatisFlex\Mapper\AccountMapper.java
-C:\Users\junw\Documents\GitHub\test-MybatisFlex\src\main\java\wo1261931780\testMybatisFlex\TestMybatisFlexApplication.java
-C:\Users\junw\Documents\GitHub\test-MybatisFlex\src\main\java\wo1261931780\testMybatisFlex\DTO\Account.java
+/Users/junw/Documents/GitHub/test-MybatisFlex/src/main/java/wo1261931780/testMybatisFlex/mapper/TbAccountMapper.java
+/Users/junw/Documents/GitHub/test-MybatisFlex/src/main/java/wo1261931780/testMybatisFlex/domain/TbAccount.java
+/Users/junw/Documents/GitHub/test-MybatisFlex/src/main/java/wo1261931780/testMybatisFlex/service/TbAccountService.java
+/Users/junw/Documents/GitHub/test-MybatisFlex/src/main/java/wo1261931780/testMybatisFlex/controller/demoController.java
+/Users/junw/Documents/GitHub/test-MybatisFlex/src/main/java/wo1261931780/testMybatisFlex/TestMybatisFlexApplication.java

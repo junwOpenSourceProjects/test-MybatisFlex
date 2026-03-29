@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: wo1261931780.testMybatisFlex.MybatisFlexTestApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.183 s - in wo1261931780.testMybatisFlex.MybatisFlexTestApplicationTests
