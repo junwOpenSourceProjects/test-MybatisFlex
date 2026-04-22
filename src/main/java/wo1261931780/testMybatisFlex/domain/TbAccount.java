@@ -5,8 +5,6 @@ import com.mybatisflex.annotation.Column;
 import com.mybatisflex.annotation.Id;
 import com.mybatisflex.annotation.KeyType;
 import com.mybatisflex.annotation.Table;
-import io.swagger.annotations.ApiModel;
-import io.swagger.annotations.ApiModelProperty;
 import io.swagger.v3.oas.annotations.media.Schema;
 import java.io.Serializable;
 import java.util.Date;
@@ -23,7 +21,6 @@ import lombok.NoArgsConstructor;
 *@Description 
 */
 
-@ApiModel(description="test_technical.tb_account")
 @Schema
 @Data
 @AllArgsConstructor
@@ -31,23 +28,19 @@ import lombok.NoArgsConstructor;
 @Table(value = "test_technical.tb_account")
 public class TbAccount implements Serializable {
     @Id(value = "id", keyType = KeyType.Sequence)
-    @ApiModelProperty(value="")
-    @Schema(description="")
+    @Schema(description = "")
     private Integer id;
 
     @Column(value = "user_name")
-    @ApiModelProperty(value="")
-    @Schema(description="")
+    @Schema(description = "")
     private String userName;
 
     @Column(value = "age")
-    @ApiModelProperty(value="")
-    @Schema(description="")
+    @Schema(description = "")
     private Integer age;
 
     @Column(value = "birthday")
-    @ApiModelProperty(value="")
-    @Schema(description="")
+    @Schema(description = "")
     private Date birthday;
 
     private static final long serialVersionUID = 1L;
